@@ -31,7 +31,7 @@ case1.txt：the deletion with clonal boundaries.
 case2.txt: the deletion around SNVs.
 
 
-3.Example.
+4.Example.
 （1）Input command in the example folder path：python getD.py delly s.tab
  (2) Input command: cd ..
 （2）Input command：./runExample.sh
