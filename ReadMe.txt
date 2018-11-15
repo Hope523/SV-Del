@@ -32,9 +32,10 @@ case2.txt: the deletion around SNVs.
 
 
 4.Example.
-（1）Input command in the example folder path：python getD.py delly s.tab
+ (1)Input command in the example folder path：python getD.py delly s.tab
  (2) Input command: cd ..
-（2）Input command：./runExample.sh
+ (3) chmod -R 777 ./runExample.sh
+（4）Input command：./runExample.sh
 explanation of folder example：
 getD.py：Program for handling deletion reported by existing method.
 getDPindel.py: Program for handling deletion reported by Pindel-C.
