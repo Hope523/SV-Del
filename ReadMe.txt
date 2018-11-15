@@ -23,7 +23,7 @@ mehtodName ：the name of existing method.
 delfile ： the deletion reported by existing method.
 The output file of Pindel-C and DELLY2 need to be processed which can be seen in the Example.
 
-Please put your data in the real folder.
+Please create a folder named real and put your data in it.
 Input command after modification：./run.sh
 
 3.Results:
