@@ -48,4 +48,4 @@ s150.sort.conf.bed：the deletion reported by SWAN.
 s150indel.gatk.raw.vcf：the deletion reported by GATK.
 Res: the result of the example.
 
-
+The example is too large to upload. Please email tianzw@stu.xjtu.edu.cn to get it.
